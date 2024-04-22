@@ -1,2 +1,2 @@
-# C-
+# C#
 Exercises with C# language
